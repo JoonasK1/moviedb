@@ -1,0 +1,62 @@
+.main {
+    width: 75%;
+    margin: auto;
+
+}
+
+button {
+    border-radius: 4px;
+    background-color: rebeccapurple;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+input {
+    border: none;
+    display: block;
+    width: 100%;
+    line-height: 1.5;
+    padding: 8px 0 8px 10px;
+    border-bottom: 1px solid #cfcbcc;
+    outline: 0;
+}
+
+.container {
+    background: #fff;
+    max-width: 600px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 1px solid #cfcbcc;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: 30%;
+    margin-top: 5vh;
+}
+
+#textdiv {
+    background-color: grey;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 1vh;
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-top: 10px;
+    visibility: hidden;
+    text-align: center;
+}
