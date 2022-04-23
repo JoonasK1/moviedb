@@ -1,4 +1,4 @@
-﻿# moviedb
+﻿# Moviedb
 Project made by Joonas Karling
 
 Movie and show search from OMDB API
